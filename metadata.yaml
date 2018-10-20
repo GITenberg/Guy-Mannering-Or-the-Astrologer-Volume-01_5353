@@ -1,5 +1,5 @@
 _repo: Guy-Mannering-Or-the-Astrologer-Volume-01_5353
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Astrologers -- Fiction'
 - !lcc 'PR'
 - !lcsh 'Scotland -- Fiction'
+- GITenberg
 title: Guy Mannering, Or, the Astrologer — Volume 01
 url: http://www.gutenberg.org/ebooks/5353
